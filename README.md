@@ -1,16 +1,6 @@
 ## Hi there 👋
 
-<!--
-**raisaumyam26-tech/raisaumyam26-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
 Hi, I'm Saumyam Rai 👋  <br>B.Tech student passionate about AI, backend development, and problem solving.  <br>Currently building projects, solving DSA, and exploring scalable software systems.
 
 
