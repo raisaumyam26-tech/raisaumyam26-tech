@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 
-Hi, I'm Saumyam Rai 👋  <br>B.Tech student passionate about AI, backend development, and problem solving.  <br>Currently building projects, solving DSA, and exploring scalable software systems.
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=900&lines=Hi%2C+I'm+Saumyam+Rai+👋;Software+Engineering+Enthusiast;Focused+on+AI%2C+Backend+Systems+%26+Scalable+Applications;Problem+Solver+%7C+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
+![](https://komarev.com/ghpvc/?username=raisaumyam26-tech&color=blue)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xaaNx9QJf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saumyam.rai__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SAUMYAM_Rai) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/saumyam-rai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaumyamRai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raisaumyam26@gmail.com) 
